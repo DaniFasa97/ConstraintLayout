@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+    <string name="camera_settings" />
+    <string name="settings" />
+    <string name="camera" />
+    <string name="camera_value" />
+    <string name="singapore" />
+    <string name="fab_content_description" />
+    <string name="placeholder" />
+    <string name="upload" />
+    <string name="discard" />
+    <string name="singapore_description" />
 </resources>

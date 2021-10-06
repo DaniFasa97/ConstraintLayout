@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -155,7 +155,7 @@
         android:layout_height="wrap_content"
         android:minHeight="48dp"
         android:inputType="textPersonName"
-        android:text="@string/camera_settimgs"
+        android:text="@string/camera_settings"
         android:ems="10"
         app:layout_editor_absoluteX="73dp"
         app:layout_editor_absoluteY="225dp"
@@ -237,4 +237,4 @@
         android:layout_marginBottom="8dp"
         tools:layout_constraintBottom_creator="1" />
 
-</android.support.constraint.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
